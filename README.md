@@ -2,6 +2,7 @@
 ## Members:
 Antoine Lara (DemoMan02)  
 Ronny Espinosa (Rxnny-256)  
+Melissa Granville (melissa-GM)  
 
 ## Project Description:
 Retail stores often struggle to monitor stock levels manually, leading to overstocking, stockouts, and poor inventory decisions. This system solves that by digitally tracking 25 inventory items and their current status.
@@ -10,3 +11,9 @@ Retail stores often struggle to monitor stock levels manually, leading to overst
 * Allow staff to add, search, and update inventory records  
 * Track whether items are In Stock, Low Stock, or Out of Stock  
 * Generate summary reports for quick inventory review  
+
+## Assigned Roles:
+* Project Manager ()
+* Documentation Manager ()
+* Github Coordinator (Antoine Lara)  
+* Software Developer (Ronny Espinosa)
