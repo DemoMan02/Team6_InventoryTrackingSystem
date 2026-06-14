@@ -14,8 +14,8 @@ Retail stores often struggle to monitor stock levels manually, leading to overst
 
 ## Assigned Roles:
 ### Project Manager (Ronny Espinosa)  
-* Reviews assigned project  
-* Prepares planning documentation  
+* Reviews assigned projects  
+* Prepares planning documentation
 ### Project Designer (Melissa Granville)  
 * Designs overall structure of the software application  
 ### Github Coordinator (Antoine Lara)  
