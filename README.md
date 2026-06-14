@@ -13,7 +13,10 @@ Retail stores often struggle to monitor stock levels manually, leading to overst
 * Generate summary reports for quick inventory review  
 
 ## Assigned Roles:
-* Project Manager ()
-* Documentation Manager ()
-* Github Coordinator (Antoine Lara)  
-* Software Developer (Ronny Espinosa)
+### Project Manager (Ronny Espinosa)  
+* Reviews assigned project  
+* Prepares planning documentation  
+### Project Designer (Melissa Granville)  
+* Designs overall structure of the software application  
+### Github Coordinator (Antoine Lara)  
+* Creates and configures repositories
