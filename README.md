@@ -1,7 +1,7 @@
 # Team6_InventoryTrackingSystem
 ## Members:
-Antoine Lara (DemoMan02)
-Ronny Espinosa (Rxnny-256) 
+Antoine Lara (DemoMan02)  
+Ronny Espinosa (Rxnny-256)  
 
 ## Project Description:
 Retail stores often struggle to monitor stock levels manually, leading to overstocking, stockouts, and poor inventory decisions. This system solves that by digitally tracking 25 inventory items and their current status.
