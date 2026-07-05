@@ -79,4 +79,4 @@ Examples:
 
 ---
 
-*Document created by: Ronny Espinosa | Last updated: July 2025*
+*Document created by: Melissa Granville | Last updated: July 5, 2026*
