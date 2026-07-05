@@ -8,7 +8,7 @@ Team Members  : Ronny Espinosa (Project Manager)
                 Melissa Granville (Documentation Manager)
                 Antoine Lara (GitHub Coordinator)
 Course        : Introduction to Programming
-Date          : July 2025
+Date          : July 5, 2026
  
 Description:
     This file contains function stubs for the Inventory Tracking System.
