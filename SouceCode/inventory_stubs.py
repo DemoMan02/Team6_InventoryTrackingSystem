@@ -159,7 +159,7 @@ def generate_report(records):
     Returns:
         dict: A dictionary with the following summary numbers:
               {
-                  "total_items"  : total count of all records,
+                  "total_items"  : total count of all 25 records,
                   "in_stock"     : count of In Stock items,
                   "low_stock"    : count of Low Stock items,
                   "out_of_stock" : count of Out of Stock items
