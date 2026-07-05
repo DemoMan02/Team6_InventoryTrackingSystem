@@ -54,7 +54,9 @@ Examples:
 - Each member must make at least one commit and push per phase
 - Always pull latest changes before pushing
 - Never commit without # TODO notes where needed
-
+  
+### 3.3 Repository Link
+- Main Repository: [Team 6 GitHub](https://github.com/DemoMan02/Team6_InventoryTrackingSystem)
 ---
 
 ## 4. Team Procedures
