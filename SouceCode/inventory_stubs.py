@@ -46,7 +46,7 @@ def add_record(records):
     Add a new inventory item to the system.
  
     This function will ask the user to enter:
-        - Item ID   (example: "001")
+        - Item ID   (example: "INV-001")
         - Item Name (example: "Water Bottle")
         - Status    (In Stock / Low Stock / Out of Stock)
  
