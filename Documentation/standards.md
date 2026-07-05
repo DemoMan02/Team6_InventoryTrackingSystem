@@ -63,6 +63,7 @@ Examples:
 - Primary channel: WhatsApp
 - All members must respond within 24 hours
 - All decisions shared with the full team
+- Urgent Deadlines: Response window shortens to 2 hours on submission days.
 
 ### 4.2 Task Assignment
 - Tasks assigned during team meetings
