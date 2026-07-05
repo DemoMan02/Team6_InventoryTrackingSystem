@@ -9,7 +9,7 @@
 | Role | Team Member | GitHub Username |
 |---|---|---|
 | Project Manager | Ronny Espinosa | Rxnny-256 |
-| Documentation Manager | Melissa Granville | melissa-GM |
+| Project Designer | Melissa Granville | melissa-GM |
 | GitHub Coordinator | Antoine Lara | DemoMan02 |
 
 ---
