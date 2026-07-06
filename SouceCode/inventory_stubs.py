@@ -7,7 +7,7 @@ Team Number   : Group 6
 Team Members  : Ronny Espinosa (Project Manager)
                 Melissa Granville (Documentation Manager)
                 Antoine Lara (GitHub Coordinator)
-Course        : Introduction to Programming
+Course        : Introduction to Programming COP1047C-2265-6449
 Date          : July 5, 2026
  
 Description:
