@@ -148,10 +148,10 @@ def generate_report(records):
  
     This function will count how many items fall into each
     status category and display a full summary report showing:
-        - Total number of items
-        - Number of items In Stock
-        - Number of items Low Stock
-        - Number of items Out of Stock
+        - Total number of items.
+        - Number of items In Stock.
+        - Number of items Low Stock.
+        - Number of items Out of Stock.
  
     Parameters:
         records (list): The current list of inventory items.
@@ -162,7 +162,7 @@ def generate_report(records):
                   "total_items"  : total count of all 25 records,
                   "in_stock"     : count of In Stock items,
                   "low_stock"    : count of Low Stock items,
-                  "out_of_stock" : count of Out of Stock items
+                  "out_of_stock" : count of Out of Stock items,
               }
  
     Author : Melissa Granville
@@ -204,12 +204,12 @@ def main_menu():
     after each action until the user chooses to exit.
  
     Menu Options:
-        1. Add Inventory Record
-        2. Search Inventory Record
-        3. Display All Records
-        4. Update Inventory Status
-        5. Generate Summary Report
-        6. Exit Program
+        1. Add Inventory Record.
+        2. Search Inventory Record.
+        3. Display All Records.
+        4. Update Inventory Status.
+        5. Generate Summary Report.
+        6. Exit Program.
  
     Parameters:
         None
