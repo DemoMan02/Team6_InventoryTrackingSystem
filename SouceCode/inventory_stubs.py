@@ -217,7 +217,7 @@ def main_menu():
     Returns:
         None: Keeps looping until the user selects Exit.
  
-    Author : Ronny Espinosa
+    Author : Ronny Espinosa (Project Manager)
     Status : Stub - Implementation pending Phase 3
     """
     # TODO: Implementation in Phase 3
