@@ -59,7 +59,7 @@ def add_record(records):
     Returns:
         list: The updated list with the new item added.
  
-    Author : Ronny Espinosa
+    Author : Ronny Espinosa (Project Manager)
     Status : Stub - Implementation pending Phase 3
     """
     # TODO: Implementation in Phase 3
@@ -82,7 +82,7 @@ def search_record(records, search_term):
         list: A list of items that match the search.
               Returns an empty list if nothing is found.
  
-    Author : Melissa Granville
+    Author : Melissa Granville (Documentation Manager)
     Status : Stub - Implementation pending Phase 3
     """
     # TODO: Implementation in Phase 3
@@ -185,7 +185,7 @@ def exit_program():
     Returns:
         None
  
-    Author : Antoine Lara
+    Author : Antoine Lara (GitHub Coordinator)
     Status : Stub - Implementation pending Phase 3
     """
     # This line already works - it prints the goodbye message
